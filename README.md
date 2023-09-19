@@ -26,5 +26,7 @@ Hint: The structure of classes which you need to create in the required program 
 ![image](https://github.com/amna-rahman/DataStructures-Heap-/assets/109412864/e7aaa52e-8b9b-4558-ad7a-29776c662456)
 
 ## Sample Output:
+![image](https://github.com/amna-rahman/DataStructures-Heap-/assets/109412864/95d80353-1036-4b49-97a9-1dc19804b30f)
+
 
 ![image](https://github.com/amna-rahman/DataStructures-Heap-/assets/109412864/a35a8619-5df4-488f-ba1d-431666c364f1)
